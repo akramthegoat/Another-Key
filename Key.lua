@@ -7,7 +7,7 @@ local UserInputService = game:GetService("UserInputService")
 local StarterGui = game:GetService("StarterGui")
 
 -- Local API Keys (Replace with your actual keys)
-local validKeys = {'Akram_Key', 'Akram_Key'}
+local validKeys = {'TPS_Key', 'TPS_Key'}
 
 -- Function to verify API Key
 local function verifyApiKey(apiKey, callback)
